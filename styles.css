@@ -1,0 +1,112 @@
+body {
+    background-image:url(background1.jpg) ;
+    background-attachment: scroll;
+    font-family: sans-serif;
+    padding: 20px;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: auto;
+    display: flex;
+  }
+  
+  h1 {
+    font-size: 40px;
+    margin-top: 80px;
+    margin-bottom: 15px;
+    color: #f6aa1c;
+  }
+  
+  h2 {
+    font-size: 30px;
+    color: #f6aa1c;
+  }
+  
+  .established {
+    font-style: italic;
+    color: #f6aa1c;
+  }
+  
+  h1, h2, p {
+    text-align: center;
+  }
+  
+  .menu {
+    width: 80%;
+  
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  hr {
+    height: 2px;
+    background-color: #fdfffc;
+    border-color:#fdfffc;
+  }
+  
+  .bottom-line {
+    margin-top: 25px;
+  }
+  
+  h1, h2 {
+    font-family: Impact, serif;
+  }
+  
+  .item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+  
+  .flavor, .dessert {
+    text-align: left;
+    width: 75%;
+    color: #f6aa1c;
+  }
+  
+  .price {
+    text-align: right;
+    width: 25%;
+    color: #f6aa1c;
+  }
+  
+  /* FOOTER */
+  
+  footer {
+    font-size: 14px;
+  }
+  
+  .address {
+    margin-bottom: 5px;
+  }
+  
+  
+  
+  a:visited {
+    color:black;
+  }
+  
+  a:hover {
+    color:#f6aa1c;
+  }
+  
+  
+  .maind
+  {
+    width:10%
+  }
+  .des
+  {
+    width: 10%;
+  } 
+.address{
+    color:#f6aa1c;
+  }
